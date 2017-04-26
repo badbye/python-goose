@@ -33,8 +33,17 @@ to hear how you're using it or what features should be improved.
 Goose is licensed by Gravity.com under the Apache 2.0 license; see the
 LICENSE file for more details.
 
-Setup
------
+Installation
+------------
+
+- Install from pypi:
+
+::
+
+    pip install goose-extractor
+
+
+- Install from source:
 
 ::
 
